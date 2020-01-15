@@ -1,0 +1,114 @@
+[
+  {
+    "id": 14,
+    "name":"Sweatshirt",
+    "price": 20,
+    "issueDate": "2020-01-10",
+    "dueDate": "2020-02-10",
+    "isPaid": true
+  },
+  {
+    "id": 13,
+    "name":"Phone",
+    "price": 80,
+    "issueDate": "2019-12-30",
+    "dueDate": "2020-05-30",
+    "isPaid": false
+  },
+  {
+    "id": 12,
+    "name":"Charger",
+    "price": 4,
+    "issueDate": "2019-12-01",
+    "dueDate": "2020-01-01",
+    "isPaid": true
+  },
+  {
+    "id": 11,
+    "name":"Groceries",
+    "price": 12,
+    "issueDate": "2019-11-15",
+    "dueDate": "2019-12-15",
+    "isPaid": true
+  },
+  {
+    "id": 10,
+    "name":"Vacation",
+    "price": 500,
+    "issueDate": "2019-08-12",
+    "dueDate": "2020-02-12",
+    "isPaid": false
+  },
+  {
+    "id": 9,
+    "name":"Computer",
+    "price": 220,
+    "issueDate": "2019-06-23",
+    "dueDate": "2020-06-23",
+    "isPaid": false
+  },
+  {
+    "id": 8,
+    "name":"Battery",
+    "price": 6,
+    "issueDate": "2019-06-17",
+    "dueDate": "2019-07-17",
+    "isPaid": true
+  },
+  {
+    "id": 7,
+    "name":"Tools",
+    "price": 130,
+    "issueDate": "2019-06-11",
+    "dueDate": "2019-07-11",
+    "isPaid": true
+  },
+  {
+    "id": 6,
+    "name":"Wedding expenses",
+    "price": 100,
+    "issueDate": "2019-06-01",
+    "dueDate": "2019-07-01",
+    "isPaid": true
+  },
+  {
+    "id": 5,
+    "name":"Chemistry for raspberries",
+    "price": 45,
+    "issueDate": "2019-05-20",
+    "dueDate": "2020-05-20",
+    "isPaid": false
+  },
+  {
+    "id": 4,
+    "name":"Party food&drinks",
+    "price": 60,
+    "issueDate": "2019-03-03",
+    "dueDate": "2019-04-03",
+    "isPaid": true
+  },
+  {
+    "id": 3,
+    "name":"Christmas gifts",
+    "price": 50,
+    "issueDate": "2019-01-05",
+    "dueDate": "2019-02-05",
+    "isPaid": true
+  },
+  {
+    "id": 2,
+    "name":"New Year celebration",
+    "price": 25,
+    "issueDate": "2018-12-31",
+    "dueDate": "2019-01-31",
+    "isPaid": true
+  },
+  {
+    "id": 1,
+    "name":"trip to Belgrade",
+    "price": 40,
+    "issueDate": "2018-12-25",
+    "dueDate": "2019-01-25",
+    "isPaid": true
+  }
+]

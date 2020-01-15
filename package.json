@@ -1,0 +1,23 @@
+{
+  "name": "Dairy",
+  "version": "1.0.0",
+  "description": "This cool app saves different kind of informations about you",
+  "author":"zeks",
+  "scripts": {
+    "dev": "nuxt",
+    "generate": "nuxt generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zeks92/Dairy.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.9.0",
+    "nuxt": "^1.4.1",
+    "pug": "^2.0.3",
+    "pug-loader": "^2.4.0",
+    "sass-loader": "^7.0.3",
+    "vuetify": "^1.0.19"
+  }
+}
