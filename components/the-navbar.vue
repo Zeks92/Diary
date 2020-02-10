@@ -1,6 +1,6 @@
 <template lang="pug">
   v-toolbar(dark color='primary')
-    v-toolbar-title.mr-4 #[v-icon.mb-1 book] Dairy
+    v-toolbar-title.mr-4 #[v-icon.mb-1 book] Diary
     v-toolbar-items.hidden-sm-and-down
       v-btn(to='/' flat) Events
       v-btn(to='/shoppings' flat) Shopping

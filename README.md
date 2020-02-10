@@ -1,4 +1,4 @@
-# Dairy
+# Diary
 Want to keep a record where you go,what you buy and some general news about yourself?Then this app is perfect for you.Enjoy!
 
 

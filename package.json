@@ -1,5 +1,5 @@
 {
-  "name": "Dairy",
+  "name": "Diary",
   "version": "1.0.0",
   "description": "This cool app saves different kind of informations about you",
   "author":"zeks",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Zeks92/Dairy.git"
+    "url": "https://github.com/Zeks92/Diary.git"
   },
   "license": "MIT",
   "dependencies": {

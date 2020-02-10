@@ -6,7 +6,7 @@
           v-flex(sm8)
             .display-1.text-xs-center.mb-3.primary--text
               v-icon.mr-2.mb-1(color='primary' large) book
-              | Dairy
+              | Diary
             nuxt
     the-footer
 </template>
